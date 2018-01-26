@@ -1,5 +1,5 @@
 # Programming to Shutdown your windows
-Using C language for programming. [How to compile c program without text editor](https://youtu.be/Sh0KfH7wg6U)
+Use C language for programming. [How to compile C language program without text editor](https://youtu.be/Sh0KfH7wg6U)
 ## Introduction
 * คำสั่งในการ shutdown ปกติ สั่งผ่าน command line คือ
 ``` 
